@@ -15,4 +15,3 @@ public abstract class Animal {
         return espece;
     }
 }
-aqSXWX
